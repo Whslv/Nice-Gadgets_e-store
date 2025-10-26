@@ -75,11 +75,8 @@ export const ProductDetailsPage = () => {
     return productData.find(i => i.itemId === id);
   }
 
-  const rec = product
-    ? productData.filter(
-      p => p.category === typeOfProduct && p.price >= product.priceDiscount,
-    )
-    : productData;
+  // eslint-disable-next-line prettier/prettier
+  const rec = product ? (productData.filter(p => p.category === typeOfProduct && p.price >= product.priceDiscount,)) : (productData);
 
   useEffect(() => {
     setLoader(true);
