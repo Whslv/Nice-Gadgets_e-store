@@ -27,15 +27,15 @@ Experience the live website: [View Live Site](https://whslv.github.io/layout_lan
 
 ## Features
 
-🛍️ Full product catalogue — browse gadgets by category (phones, tablets, accessories) with rich media, descriptions and pricing
-🔍 Search and filter functionality — quickly find items by categorys
-❤️ Favourites system — add/remove products to a favourites list for later
-🛒 Shopping cart workflow — add items to cart, adjust quantities, view totals, proceed to checkout placeholder
-📦 Product details pages — individual product views with images, specifications, options (e.g., capacities, colors)
-📱 Responsive UI — seamless experience on desktop, tablet and mobile devices
-⚡ Smooth animations & interactions — hover effects, transitions, modular components for clean UX
-💾 Persisted state — cart and favourites data stored in local storage so user state persists across sessions
-🔧 Scalable code structure — component-based architecture makes it easy to extend features (e.g., theme switching, user auth)
+🛍️ Full product catalogue — browse gadgets by category (phones, tablets, accessories) with rich media, descriptions and pricing <br>
+🔍 Search and filter functionality — quickly find items by categorys <br>
+❤️ Favourites system — add/remove products to a favourites list for later <br>
+🛒 Shopping cart workflow — add items to cart, adjust quantities, view totals, proceed to checkout placeholder <br>
+📦 Product details pages — individual product views with images, specifications, options (e.g., capacities, colors)<br>
+📱 Responsive UI — seamless experience on desktop, tablet and mobile devices<br>
+⚡ Smooth animations & interactions — hover effects, transitions, modular components for clean UX<br>
+💾 Persisted state — cart and favourites data stored in local storage so user state persists across sessions<br>
+🔧 Scalable code structure — component-based architecture makes it easy to extend features (e.g., theme switching, user auth)<br>
 
 ## Getting started
 
