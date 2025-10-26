@@ -7,23 +7,23 @@ A modern, mobile-friendly e-commerce web application built to showcase and sell 
 Experience the live website: [View Live Site](https://whslv.github.io/layout_landing-page/)
 
 ## Technologies Used
-**Component-based UI architecture** <br>
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) <br>
+**Component-based UI architecture:** <br>
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) <br>
 
-**SPA navigation** <br>
-![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat) <br>
+**SPA navigation:** <br>
+![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge) <br>
 
-**Responsive layout & styling** <br>
+**Responsive layout & styling:** <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <br>
 
-**App logic and state handling** <br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) <br>
+**App logic and state handling:** <br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge) <br>
 
-**Managing cart, favourites, user state** <br>
-![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat) <br>
+**Managing cart, favourites, user state:** <br>
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff) <br>
 
-**Version control and hosting/deployment** <br>
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) <br>
+**Version control and hosting/deployment:** <br>
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) <br>
 
 ## Features
 
