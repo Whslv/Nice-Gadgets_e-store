@@ -4,7 +4,7 @@ A modern, mobile-friendly e-commerce web application built to showcase and sell 
 
 ## Live Preview
 
-Experience the live website: [View Live Site](https://whslv.github.io/layout_landing-page/)
+Experience the live website: [View Live Site](https://whslv.github.io/Nice-Gadgets_e-store/)
 
 ## Technologies Used
 **Component-based UI architecture:** <br>
